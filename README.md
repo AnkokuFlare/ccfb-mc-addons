@@ -1,4 +1,4 @@
-# ccfb-mc-modpack
+# Optional CCFB Modpack Add-Ons
 **Add ons for the Minecraft Modpack**
 
 ## Bean's Battle music CCFB Compat
