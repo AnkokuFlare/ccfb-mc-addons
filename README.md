@@ -1,5 +1,5 @@
 # Optional CCFB Modpack Add-Ons
-**Add ons for the Minecraft Modpack**
+**Add ons for the [CCFB Minecraft Modpack](https://github.com/AnkokuFlare/FlareoutCCFB-Modpack)**
 
 ## Bean's Battle music CCFB Compat
 **Adds battle music to pokemon battle events.**
